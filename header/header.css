@@ -1,0 +1,33 @@
+header{
+    padding: 2rem 2rem 2rem 0rem;
+    background-color: rgb(62, 196, 59);
+    font-family: cursive;
+    font-style: italic;
+    border-bottom: 3px solid rgb(6, 167, 9);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pUser{
+    padding: 0rem 3rem;
+    font-size: 1.2rem;
+
+    color: #ecf4fa;    
+}
+
+h1{
+    font-weight: 500;
+}
+
+a{
+
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-right: 2rem;
+    padding-left: 1rem;
+    color: aliceblue;
+
+    border-right: 3px solid rgba(79, 150, 79, 0.737);
+}
